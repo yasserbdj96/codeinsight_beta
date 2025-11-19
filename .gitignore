@@ -7,4 +7,4 @@ __pycache__/
 *.exe
 *.sh
 *.db-journal
-*.env
+.env
